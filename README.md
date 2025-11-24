@@ -1,4 +1,5 @@
 Real-Time Spark Streaming Pipeline
+
 📌 Overview
 
 This project implements a real-time data streaming pipeline using PySpark, designed to read live flight-related JSON data, process it continuously, and prepare it for downstream analytics.
